@@ -1,0 +1,12 @@
+package test;
+
+import dao.UserDao;
+
+public class DaoTest {
+	public static void main(String[] args) {
+		UserDao userDao = new UserDao();
+		
+		boolean isTrue = userDao.checkId("aaa");
+		System.out.println(isTrue);
+	}
+}

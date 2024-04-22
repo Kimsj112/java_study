@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;userDto&apos; in &apos;test.DaoTest.main(...)&apos; to &apos;updateInfo&apos;&#x0D;&#x0A;- Original project: &apos;jdbc01&apos;&#x0D;&#x0A;- Original element: &apos;test.DaoTest.main(String[]).userDto&apos;&#x0D;&#x0A;- Renamed element: &apos;userDto&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;userDto&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;test{DaoTest.java[DaoTest~main~\[QString;@userDto!716!747!724!730!QUserDto;!0!false" name="updateInfo" references="true" stamp="1709608660258" version="1.0"/>
+</session>
